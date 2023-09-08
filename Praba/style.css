@@ -104,7 +104,7 @@ header{width:100%; height:auto; position:absolute; top:0;}
     text-align: center;
     margin: 0;
     padding: 10px 0;}
-.category-boxs p{font:24px "Poppins", sans-serif; color:#333; text-align:center;margin: 0; padding:10px 0;}
+.category-boxs p{font:18px "Poppins", sans-serif; color:#333; text-align:center;margin: 0; padding:10px 0;}
 .plane-img{
   border: 15px;
   border-radius: 35px;
@@ -160,7 +160,7 @@ float:left;width:50%;padding: 2% 0;
 
 #main-section4{width:100%; height:auto; margin:0; padding:0;bottom: auto;}
 #choose-outer{width:100%; height:auto; width:1220px;margin:150px auto;}
-.steps-box{float:left; width: 35%; padding: 30px 15px; text-align: center; }
+.steps-box{float:left; width: 30%; padding: 30px 15px; text-align: center; }
 #section4-inner h2{ color: #7F2736;
   font-family: Poppins;
   text-align: center;
@@ -180,8 +180,12 @@ float:left;width:50%;padding: 2% 0;
   width: 430px;
   height: 405px;
   flex-shrink: 0;}
-
-
+.ellips{
+  padding: 0 12px;
+}
+.lorem{
+  padding: 0 18px;
+}
 
 
 .easy-fast-img{float:left; width:15%}
